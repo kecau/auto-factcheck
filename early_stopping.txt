@@ -1,0 +1,469 @@
+
+RNN 
+
+Train Phase 
+
+Epoch 1/100
+----------
+Val Loss:  0.645042  | Val Acc:   0.65   
+
+Epoch 2/100
+----------
+Val Loss:  0.645321  | Val Acc:   0.65   
+
+Epoch 3/100
+----------
+Val Loss:  0.645449  | Val Acc:   0.65   
+
+Epoch 4/100
+----------
+Val Loss:  0.645252  | Val Acc:   0.65   
+
+Epoch 5/100
+----------
+Val Loss:  0.645229  | Val Acc:   0.65   
+
+Epoch 6/100
+----------
+Val Loss:  0.644924  | Val Acc:   0.65   
+
+Epoch 7/100
+----------
+Val Loss:  0.644712  | Val Acc:   0.65   
+
+Epoch 8/100
+----------
+Val Loss:  0.644274  | Val Acc:   0.65   
+
+Epoch 9/100
+----------
+Val Loss:  0.643910  | Val Acc:   0.65   
+
+Epoch 10/100
+----------
+Val Loss:  0.644167  | Val Acc:   0.65   
+
+Epoch 11/100
+----------
+Val Loss:  0.643943  | Val Acc:   0.65   
+
+Epoch 12/100
+----------
+Val Loss:  0.643777  | Val Acc:   0.65   
+
+Epoch 13/100
+----------
+Val Loss:  0.643400  | Val Acc:   0.65   
+
+Epoch 14/100
+----------
+Val Loss:  0.643204  | Val Acc:   0.65   
+
+Epoch 15/100
+----------
+Val Loss:  0.643160  | Val Acc:   0.65   
+
+Epoch 16/100
+----------
+Val Loss:  0.643284  | Val Acc:   0.65   
+
+Epoch 17/100
+----------
+Val Loss:  0.643380  | Val Acc:   0.65   
+
+Epoch 18/100
+----------
+Val Loss:  0.643374  | Val Acc:   0.65   
+
+Epoch 19/100
+----------
+Val Loss:  0.643430  | Val Acc:   0.65   
+
+Epoch 20/100
+----------
+Val Loss:  0.643183  | Val Acc:   0.65   
+
+Epoch 21/100
+----------
+Val Loss:  0.642811  | Val Acc:   0.65   
+
+Epoch 22/100
+----------
+Val Loss:  0.642946  | Val Acc:   0.65   
+
+Epoch 23/100
+----------
+Val Loss:  0.643235  | Val Acc:   0.65   
+
+Epoch 24/100
+----------
+Val Loss:  0.643400  | Val Acc:   0.65   
+
+Epoch 25/100
+----------
+Val Loss:  0.643084  | Val Acc:   0.65   
+
+Epoch 26/100
+----------
+Val Loss:  0.642709  | Val Acc:   0.65   
+
+Epoch 27/100
+----------
+Val Loss:  0.642663  | Val Acc:   0.65   
+
+Epoch 28/100
+----------
+Val Loss:  0.642876  | Val Acc:   0.65   
+
+Epoch 29/100
+----------
+Val Loss:  0.642986  | Val Acc:   0.65   
+
+Epoch 30/100
+----------
+Val Loss:  0.642789  | Val Acc:   0.65   
+
+Epoch 31/100
+----------
+
+ early stopping
+Train time : 1259.511210680008 
+
+Test Phase 
+
+Accuracy Score = 0.6563417890520694
+F1 Score (Micro) = 0.6563417890520694
+F1 Score (Macro) = 0.3962598742543931
+
+
+LSTM 
+
+Train Phase 
+
+Epoch 1/100
+----------
+Val Loss:  0.660860  | Val Acc:   0.65   
+
+Epoch 2/100
+----------
+Val Loss:  0.653955  | Val Acc:   0.65   
+
+Epoch 3/100
+----------
+Val Loss:  0.650509  | Val Acc:   0.65   
+
+Epoch 4/100
+----------
+Val Loss:  0.648578  | Val Acc:   0.65   
+
+Epoch 5/100
+----------
+Val Loss:  0.647398  | Val Acc:   0.65   
+
+Epoch 6/100
+----------
+Val Loss:  0.646847  | Val Acc:   0.65   
+
+Epoch 7/100
+----------
+Val Loss:  0.646599  | Val Acc:   0.65   
+
+Epoch 8/100
+----------
+Val Loss:  0.646184  | Val Acc:   0.65   
+
+Epoch 9/100
+----------
+Val Loss:  0.646208  | Val Acc:   0.65   
+
+Epoch 10/100
+----------
+Val Loss:  0.646268  | Val Acc:   0.65   
+
+Epoch 11/100
+----------
+
+ early stopping
+Train time : 449.2413709163666 
+
+Test Phase 
+
+Accuracy Score = 0.6563417890520694
+F1 Score (Micro) = 0.6563417890520694
+F1 Score (Macro) = 0.3962598742543931
+
+
+GRU 
+
+Train Phase 
+
+Epoch 1/100
+----------
+Val Loss:  0.650684  | Val Acc:   0.65   
+
+Epoch 2/100
+----------
+Val Loss:  0.646904  | Val Acc:   0.65   
+
+Epoch 3/100
+----------
+Val Loss:  0.646256  | Val Acc:   0.65   
+
+Epoch 4/100
+----------
+Val Loss:  0.646039  | Val Acc:   0.65   
+
+Epoch 5/100
+----------
+Val Loss:  0.646014  | Val Acc:   0.65   
+
+Epoch 6/100
+----------
+Val Loss:  0.645791  | Val Acc:   0.65   
+
+Epoch 7/100
+----------
+Val Loss:  0.646371  | Val Acc:   0.65   
+
+Epoch 8/100
+----------
+Val Loss:  0.646568  | Val Acc:   0.65   
+
+Epoch 9/100
+----------
+Val Loss:  0.646667  | Val Acc:   0.65   
+
+Epoch 10/100
+----------
+Val Loss:  0.646538  | Val Acc:   0.65   
+
+Epoch 11/100
+----------
+
+ early stopping
+Train time : 447.92135882377625 
+
+Test Phase 
+
+Accuracy Score = 0.6563417890520694
+F1 Score (Micro) = 0.6563417890520694
+F1 Score (Macro) = 0.3962598742543931
+
+
+BERT
+
+
+Train Phase 
+
+Epoch 1/100
+----------
+
+Train Phase 
+
+Epoch 1/100
+----------
+Val Loss:  0.121087  | Val Acc:   0.97   
+
+Epoch 2/100
+----------
+Val Loss:  0.056608  | Val Acc:   0.99   
+
+Epoch 3/100
+----------
+Val Loss:  0.032018  | Val Acc:   0.99   
+
+Epoch 4/100
+----------
+Val Loss:  0.032433  | Val Acc:   1.00   
+
+Epoch 5/100
+----------
+Val Loss:  0.041522  | Val Acc:   0.99   
+
+Epoch 6/100
+----------
+Val Loss:  0.028067  | Val Acc:   1.00   
+
+Epoch 7/100
+----------
+Val Loss:  0.031114  | Val Acc:   1.00   
+
+Epoch 8/100
+----------
+Val Loss:  0.028396  | Val Acc:   1.00   
+
+Epoch 9/100
+----------
+Val Loss:  0.027506  | Val Acc:   1.00   
+
+Epoch 10/100
+----------
+Val Loss:  0.026265  | Val Acc:   1.00   
+
+Epoch 11/100
+----------
+
+ early stopping
+Train time : 8430.056502819061 
+
+Test Phase 
+
+Accuracy Score = 0.998931909212283
+F1 Score (Micro) = 0.998931909212283
+F1 Score (Macro) = 0.9988161643979382
+
+
+
+Propose
+
+
+Train Phase 
+
+Epoch 1/100
+----------
+Val Loss:  0.653131  | Val Acc:   0.65   
+
+Epoch 2/100
+----------
+Val Loss:  0.647724  | Val Acc:   0.65   
+
+Epoch 3/100
+----------
+Val Loss:  0.647038  | Val Acc:   0.65   
+
+Epoch 4/100
+----------
+Val Loss:  0.646940  | Val Acc:   0.65   
+
+Epoch 5/100
+----------
+Val Loss:  0.646684  | Val Acc:   0.65   
+
+Epoch 6/100
+----------
+Val Loss:  0.646336  | Val Acc:   0.65   
+
+Epoch 7/100
+----------
+Val Loss:  0.646628  | Val Acc:   0.65   
+
+Epoch 8/100
+----------
+Val Loss:  0.646701  | Val Acc:   0.65   
+
+Epoch 9/100
+----------
+Val Loss:  0.647170  | Val Acc:   0.65   
+
+Epoch 10/100
+----------
+Val Loss:  0.646788  | Val Acc:   0.65   
+
+Epoch 11/100
+----------
+Val Loss:  0.646158  | Val Acc:   0.65   
+
+Epoch 12/100
+----------
+Val Loss:  0.646446  | Val Acc:   0.65   
+
+Epoch 13/100
+----------
+Val Loss:  0.646153  | Val Acc:   0.65   
+
+Epoch 14/100
+----------
+Val Loss:  0.646070  | Val Acc:   0.65   
+
+Epoch 15/100
+----------
+Val Loss:  0.646026  | Val Acc:   0.65   
+
+Epoch 16/100
+----------
+Val Loss:  0.645857  | Val Acc:   0.65   
+
+Epoch 17/100
+----------
+Val Loss:  0.646054  | Val Acc:   0.65   
+
+Epoch 18/100
+----------
+Val Loss:  0.646085  | Val Acc:   0.65   
+
+Epoch 19/100
+----------
+Val Loss:  0.645942  | Val Acc:   0.65   
+
+Epoch 20/100
+----------
+Val Loss:  0.645889  | Val Acc:   0.65   
+
+Epoch 21/100
+----------
+Val Loss:  0.645816  | Val Acc:   0.65   
+
+Epoch 22/100
+----------
+Val Loss:  0.645691  | Val Acc:   0.65   
+
+Epoch 23/100
+----------
+Val Loss:  0.645770  | Val Acc:   0.65   
+
+Epoch 24/100
+----------
+Val Loss:  0.645819  | Val Acc:   0.65   
+
+Epoch 25/100
+----------
+Val Loss:  0.645825  | Val Acc:   0.65   
+
+Epoch 26/100
+----------
+Val Loss:  0.645703  | Val Acc:   0.65   
+
+Epoch 27/100
+----------
+Val Loss:  0.645727  | Val Acc:   0.65   
+
+Epoch 28/100
+----------
+Val Loss:  0.645769  | Val Acc:   0.65   
+
+Epoch 29/100
+----------
+Val Loss:  0.645742  | Val Acc:   0.65   
+
+Epoch 30/100
+----------
+Val Loss:  0.645847  | Val Acc:   0.65   
+
+Epoch 31/100
+----------
+Val Loss:  0.645615  | Val Acc:   0.65   
+
+Epoch 32/100
+----------
+Val Loss:  0.645764  | Val Acc:   0.65   
+
+Epoch 33/100
+----------
+Val Loss:  0.645751  | Val Acc:   0.65   
+
+Epoch 34/100
+----------
+Val Loss:  0.645638  | Val Acc:   0.65   
+
+Epoch 35/100
+----------
+Val Loss:  0.645604  | Val Acc:   0.65   
+
+Epoch 36/100
+----------
+
+ early stopping
+Train time : 7891.91774725914 
+
+Test Phase 
+

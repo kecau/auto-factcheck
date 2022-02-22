@@ -1,0 +1,12 @@
+--find-links https://download.pytorch.org/whl/cu113/torch_stable.html
+torch==1.10.0+cu113
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+tqdm
+transformers
+datasets
+reformer-pytorch
+sentencepiece
